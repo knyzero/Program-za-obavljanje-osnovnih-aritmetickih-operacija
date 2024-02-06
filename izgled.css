@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    background-color: #eecb8a;
+    list-style-type: none;
+}
+
+.glavni{
+    border: 1px solid;
+    background-color: #f5deb3;
+    margin: auto;
+    margin-top: 18%;
+    height: 100%;
+    width: 420px;
+    padding: 10px;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+#broj1,#broj2,#op{
+    margin-left: 115px;
+}
+#dugme{
+    margin-left: 166px;
+}
+#rezultat{
+    margin-left: 135px;
+}
